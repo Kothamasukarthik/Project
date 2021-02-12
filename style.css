@@ -1,0 +1,232 @@
+
+
+body{
+
+font-family: "Montserrat";
+background-color: #000;
+
+}
+
+.outer-title
+{
+  background-color: grey;
+  margin: 2% 2%;
+
+}
+.navbar
+{
+  padding: 0 0 2.5rem;
+}
+.nav-item
+{
+  padding: 0 28px;
+}
+.nav-link
+{
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light";
+
+}
+.navbar-brand
+{
+  font-size: 2.0rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+  padding: 3px 6px;
+}
+
+
+/* Home */
+
+.testimonials-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+.offers-title{
+  text-align: center;
+  height: 80px;
+  padding-top: 20px;
+  background-color: 	#808080;
+  color: #fff;
+  font-size: 2.5rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+  margin-top: 5%;
+
+}
+.offers-img
+{
+  padding: 10%;
+  width: 80%;
+  margin-left: 10%;
+}
+.mobile-img
+{
+  width: 38%;
+  height: 15%;
+  text-align: center;
+  margin-top: 5%;
+  margin-left: 30%;
+  padding-top: 0vh;
+}
+.press-column
+{
+  border: solid #101c20 10px;
+  color: white;
+  border-radius: 5%;
+  height: 5%;
+}
+.offers-row
+{
+  margin: 5%;
+  color: grey;
+}
+
+
+/* press*/
+#press
+{
+  text-align: center;
+  padding: 10px;
+}
+
+
+
+/*Brands*/
+
+.brands-class{
+  background-color: #999999;
+  margin-top: 2%;
+}
+.brands-title{
+  margin-top: 2%;
+  background-color: grey;
+  text-align: center;
+  height: 80px;
+  padding-top: 20px;
+  color: #fff;
+  font-size: 2.5rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+
+}
+
+.brands-img{
+  width: 93%;
+  margin-top: 10%;
+  margin-right: 4%;
+  margin-bottom: 10%;
+  margin-left: 3%;
+}
+
+.brands-img-bosch{
+  width: 85%;
+  margin-top: 10%;
+  margin-right: 4%;
+  margin-bottom: 10%;
+  margin-left: 5%;
+}
+.products-text
+{
+   margin-top: -2%;
+}
+
+/* categories-class */
+
+.categories-class{
+  background-color: #999999;
+  margin-top: 2%;
+}
+
+.categories-title{
+  margin-top: 2%;
+  background-color: grey;
+  text-align: center;
+  height: 80px;
+  padding-top: 20px;
+  color: #fff;
+  font-size: 2.5rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+}
+
+.categories-img
+{
+  padding: 10%;
+  width: 80%;
+  margin-left: 10%;
+}
+.categories-column{
+  background-color: #fff;
+  border-radius: 5%;
+  border: solid #101c20 5px;
+
+}
+.categories-img-2{
+  margin-left: 20%;
+  margin-top: 15%;
+  margin-bottom: 23%;
+}
+.categories-row
+{
+  margin: 5% 2%;
+  color: grey;
+}
+
+/* Fotter */
+
+.container-fluid{
+  height: 10vh;
+  background-color: grey;
+}
+.footer-h2{
+  padding-top: 20px;
+}
+
+
+
+h2{
+  text-align: center;
+  color: #fff;
+  font-size: 2.0rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+}
+h3{
+  text-align: center;
+  color: green;
+  font-size: 2.0rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+
+}
+p{
+  text-align: center;
+  color: #fff;
+
+  font-size: 1.5rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+
+}
+
+.color{
+  height: 5vh;
+  padding-top: 7px;
+  background-color: white;
+}
+hr{
+  background-color: #fff;
+  height: 0.2vh;
+}
+
+a{
+  text-align: center;
+  color: #fff;
+
+  font-size: 1.2rem;
+  font-style: "Ubuntu";
+  font-weight: bold;
+}
